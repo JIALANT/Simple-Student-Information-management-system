@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<studentcontract>
+  <student studentid="123">
+    <name>f</name>
+    <sex>男</sex>
+    <age>12</age>
+    <birthdate>2018-10-27</birthdate>
+    <phone>333</phone>
+    <homeaddress>asd</homeaddress>
+    <email>22</email>
+    <profession>asd</profession>
+  </student>
+  <student studentid="3">
+    <name>dd</name>
+    <sex>女</sex>
+    <age>18</age>
+    <birthdate>2000-01-22</birthdate>
+    <phone>2313</phone>
+    <homeaddress>abc</homeaddress>
+    <email>asdxx@1xxx.com</email>
+    <profession>计算机</profession>
+  </student>
+</studentcontract>
